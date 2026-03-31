@@ -50,7 +50,7 @@ First, in certain circumstances, it freezes the funds of wallets that use the [m
 
 Second, I think most bitcoin node runners are currently largely indifferent to the forms of spam that BIP110 tries to block, and are therefore unlikely to run BIP110 on their nodes. With insufficient support from node runners, I think BIP110 will fail to sway miners to enforce its rules, and the small number of people who *do* run BIP110 will probably fork off the bitcoin network sometime close to September 2026. I think this will harm the anti-spam movement by forking many of them off of bitcoin.
 
-# What do you propose to as an alternative to BIP110?
+# What do you propose as an alternative to BIP110?
 To fix the first problem I outlined above, I think it would be wise to provide wallet devs with a variant of miniscript that doesn't violate BIP110's proposed rules, and enough time to upgrade. Alternatively, BIP110 itself could be modified so that it doesn't break current versions of miniscript.
 
 To fix the second problem I outlined above, I think it would be wise if BIP110 were modified to leave its activation height undefined. A clarification could also be added saying it will be defined later, after the anti-spam movement wins over enough node runners to provide a better guarantee of success. In particular, I'd like to see additional economic signals of support for such a soft fork, like small businesses, exchanges, and wallet developers announcing their support for it.
