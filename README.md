@@ -2,6 +2,8 @@
 A new cryptocurrency coin to create a URSF110 coin to make a more decentralized and censorship-resistant Bitcoin that respects information theory 101. 
 The flaw in Satoshi's design was it didn't allow decentralized jpegs, this project aims to fix it. Forked from Bitcoin hackathon webdev supertestnet written in world's most secure language i.e. javascript.
 
+This will also allow unlimited innovation for devs by making it easy for bitvm, bitvm2... upto bitvm99 and giving freedom to create miniscript and maxiscript as devs want and also run AI agents onchain to create jpegs. 
+
 Whitepaper to be published soonTM.
 
 # How to run it
