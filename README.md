@@ -1,5 +1,6 @@
 # URSF-110
-A new cryptocurrency coin to create a URSF110 coin to make a more decentralized and censorship-resistant Bitcoin that respects information theory 101
+A new cryptocurrency coin to create a URSF110 coin to make a more decentralized and censorship-resistant Bitcoin that respects information theory 101. 
+The flaw in Satoshi's design was it didn't allow decentralized jpegs, this project aims to fix it. Forked from Bitcoin hackathon dev supertestnet.
 
 # How to run it
 [Click here](#installation) -- and see the warnings below about not running it on mainnet
