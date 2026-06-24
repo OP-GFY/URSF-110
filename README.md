@@ -78,7 +78,7 @@ To be clear, I \*do\* want more people to run URSF software. I \*do not\* want p
 # Installation
 First ensure you have the two programs `nodejs` and `git`
 
-Then clone this github repo: `git clone https://github.com/supertestnet/ursf-110.git`
+Then clone this github repo: `git clone https://github.com/OP-GFY/ursf-110.git`
 
 Then enter the directory and turn it into a nodejs app: `cd ursf-110 && npm init -y`
 
