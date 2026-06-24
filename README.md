@@ -1,5 +1,5 @@
 # URSF-110
-A POC app for using bitcoind's "invalidateblock" command to reject BIP110
+A new cryptocurrency coin to create a URSF110 coin to make a more decentralized and censorship-resistant Bitcoin that respects information theory 101
 
 # How to run it
 [Click here](#installation) -- and see the warnings below about not running it on mainnet
