@@ -5,7 +5,7 @@ The flaw in Satoshi's design was it didn't allow decentralized jpegs, this proje
 Whitepaper to be published soonTM.
 
 # How to run it
-Simple 2 step process:
+Simple 2 step process, if you fail at step 1 that's not on me:
 
 1. Stop being fat & lazy.
 2. [Click here](#installation) -- and see the warnings below about not running it on mainnet
