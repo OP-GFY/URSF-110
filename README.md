@@ -10,6 +10,8 @@ Simple 2 step process:
 1. Stop being fat & lazy.
 2. [Click here](#installation) -- and see the warnings below about not running it on mainnet
 
+The below is supertestnet's slop so take it with grain of salt, I'll fix it in 2 weeks:
+
 # Video demo
 [![](https://i.ibb.co/gLXLNp9c/ursf-110-thumbnail-2.png)](https://www.youtube.com/watch?v=egmVtC1dL7k)
 
